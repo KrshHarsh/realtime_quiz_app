@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "934154891327",
+    "project_id": "real-time-qui",
+    "storage_bucket": "real-time-qui.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934154891327:android:b4147ef2d7d4d17e34488a",
+        "android_client_info": {
+          "package_name": "com.example.realtime_quiz_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgL18QXLsRYBtAcVGvyRsYXVnV5Nb-Cew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
